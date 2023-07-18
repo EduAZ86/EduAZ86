@@ -5,11 +5,14 @@
 
 <p> Como desarrollador full stack busco seguir perfeccionándome y trabajar en una empresa innovadora del sector IT.
 
-En cuanto a Habilidades blandas
-Creatividad - Adaptabilidad - Proactividad - Buenas relaciones interpersonales - Resolución de problemas
+<h4> En cuanto a Habilidades blandas me caracterizo por mi: </h4>
+<h5>Creatividad - Adaptabilidad - Proactividad - Buenas relaciones interpersonales - Resolución de problemas</h5>
 </p>
+<br>
+<br>
 - 👯 Actualmente estoy colaborando en [Inclumap](https://www.inclumap.com/)
-
+<br>
+<br>
 - 📫 Mi direccion de email es **eduardoayaviri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
