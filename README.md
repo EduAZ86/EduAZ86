@@ -10,7 +10,7 @@
 </p>
 <br>
 <br>
-- 👯 Actualmente estoy colaborando en [Inclumap](https://www.inclumap.com/)
+
 <br>
 <br>
 - 📫 Mi direccion de email es **eduardoayaviri@gmail.com**
