@@ -4,7 +4,7 @@
   <strong>Frontend Web & Mobile Developer | React, React Native & TypeScript</strong>
 </p>
 
-<p align="center">Based in Jujuy, Argentina</p>
+<p align="center">Based in Argentina</p>
 
 ### About me
 
